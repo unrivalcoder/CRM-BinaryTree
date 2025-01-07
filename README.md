@@ -10,18 +10,8 @@ Extendable: The system can be extended to include additional features such as de
 Technologies Used
 Java: Core programming language for the implementation.
 Binary Search Tree (BST): Data structure used to store customer data efficiently.
-How to Use
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/your-repository-name.git
-Navigate to the project directory:
-bash
-Copy code
-cd your-repository-name
-Compile and Run:
-Open the project in your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
-Compile and run the Main class to start interacting with the CRM system.
+
+
 Future Improvements
 Implement the delete and update functionality for customer records.
 Improve the BST by balancing it to ensure optimal performance.
